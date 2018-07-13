@@ -1,0 +1,27 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+}
+.Header
+{
+  background-color: #222;
+  color:white; 
+}
+.Header Link
+{
+  text-decoration: none;
+}
+#topDiv
+{
+  background-color: orange; 
+}
+body {
+  background-color: #EDE7E0;
+  background-position: center;
+  background-size: cover;
+}
+#topDiv form
+{
+  text-decoration: center; 
+}
